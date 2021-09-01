@@ -55,11 +55,19 @@ Expression heatmaps showing LogFC by cell-type in response to AsIII on left and 
 
 **Supplemental Figure 2.1: MA Plots for Differentially Expressed Genes**
 
-MA plots (log fold-change versus mean of normalized read counts) showing statistically significant, differentially expressed genes (red dots) in epidermal (A), cortex (B), and endodermal (C) cell-types.
+MA plots (log fold-change versus mean of normalized read counts) showing statistically significant, differentially expressed genes (red dots) in epidermal (A), cortex (B), and endodermal (C) cell-types.
 
 ***
 
+![.Ch_2_figures/sup_figure2.2A_B_C_D_E.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/sup_figure2.2A_B_C_D_E.png)
 
+![.Ch_2_figures/sup_figure2.2F.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/sup_figure2.2F.png)
+
+**Supplemental Figure 2.2: GFP-Reporter Lines**
+
+7d old GFP reporter lines after 24 hours exposure to 50 μM AsIII show GFP fluorescence exclusive to epidermal cells (A) in WER::GFP, to endodermal cells (B) in SCR::GFP, and to cortex cells (D-E) in Cortex::GFP.  GFP fluorescence of Cortex::GFP line in control conditions (C). Scale in each image is 50 μm.  (F) Bar plot of RPKM units for the three GFP-reporter line genes in both experimental conditions.  Promoters of AT5G14750, AT3G54220, AT1G09750 were cloned for WER::GFP, SCR::GFP, and Cortex::GFP, respectively.  Error bars represent standard error from n=3 biological replicates.  
+
+***
 
 
 
