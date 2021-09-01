@@ -126,6 +126,8 @@ Numbers in the table represent the number of up-regulated DEGs within the RPKM R
 Numbers in the table represent the number of down-regulated DEGs within the RPKM Range bin and the corresponding percentage in that cell-type and condition. 
 
 ***
+***
+***
 
 Notable Figures for Chapter 3 of Thesis
 
@@ -162,4 +164,43 @@ Boxplots of MAGIC line haplotypes at the NIP1;1 (A) and Chr3 QTL (C) loci showin
 
 ***
 
+![.Ch_3_figures/figure3.4A_B_C_D.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/figure3.4A_B_C_D.png)
+
+![.Ch_3_figures/figure3.4E_F.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/figure3.4E_F.png)
+
+**Figure 3.4: MAGIC founder NIP1;1 expression**
+
+(A) Founder NIP1;1 expression (qPCR), relative to Col-0 at 0dAs.  Samples 0dAs – 5dAs represent plant roots harvested either after 7d on control medium (0dAs) or after 1-5 days transferred to 10 µM AsIII media.  Founders are arranged by AsIII tolerance phenotype rank, most sensitive (Can) to most tolerant (Edi) to show correlation of phenotype with NIP1;1 expression.  (B) Founder NIP1;1 expression (qPCR) at only 0dAs (7d old plants).  Statistical significance was calculated using one-way ANOVA (*P < 0.05) with Tukey’s Test.  (C) Strong correlation between cumulative NIP1;1 expression (0dAs – 5dAs) and phenotype rank of the 19 MAGIC line founders.  (D) Strong correlation between NIP1;1 expression (0dAs only) and phenotype rank.  (E) Phenotype of transgenic lines (C1, C2, C3) expressing NIP1;1 from Can-0 with native promoter in the nip1;1 background.  (F) NIP1;1 expression, relative to Col-0, from root tissue of 7d plants on control medium.    
+
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![.Ch_3_figures/figure3.omit_1.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/figure3.omit_1.png)
+
+**Not Included in Thesis**
+
+***
+
+![.Ch_3_figures/figure3.omit_2.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/figure3.omit_2.png)
+
+**Not Included in Thesis**
+
+***
 
