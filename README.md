@@ -66,11 +66,8 @@ MA plots (log fold-change versus mean of normalized read counts) showing statist
 ***
 
 ![.Ch_2_figures/sup_figure2.3A_B.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/sup_figure2.3A_B.png)
-
 ![.Ch_2_figures/sup_figure2.3C_D.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/sup_figure2.3C_D.png)
-
 ![.Ch_2_figures/sup_figure2.3E_F.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/sup_figure2.3E_F.png)
-
 ![.Ch_2_figures/sup_figure2.3G.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/sup_figure2.3G.png)
 
 **Supplemental Figure 2.3: GFP-marker lines used for FACS**
@@ -129,7 +126,7 @@ Numbers in the table represent the number of down-regulated DEGs within the RPKM
 ***
 ***
 
-Notable Figures for Chapter 3 of Thesis
+**Notable Figures for Chapter 3 of Thesis**
 
 **Chapter 3: Natural variation in NIP1;1 expression determines AsIII tolerance in A. thaliana accessions**
 
@@ -144,7 +141,6 @@ Notable Figures for Chapter 3 of Thesis
 ***
 
 ![.Ch_3_figures/figure3.2A.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/figure3.2A.png)
-
 ![.Ch_3_figures/figure3.2B_C.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/figure3.2B_C.png)
 
 **Figure 3.2: GWAS for Arsenic Tolerance Found in MAGIC Population**
@@ -154,7 +150,6 @@ Notable Figures for Chapter 3 of Thesis
 ***
 
 ![.Ch_3_figures/figure3.3A_B.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/figure3.3A_B.png)
-
 ![.Ch_3_figures/figure3.3C_D.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/figure3.3C_D.png)
 
 
@@ -165,7 +160,6 @@ Boxplots of MAGIC line haplotypes at the NIP1;1 (A) and Chr3 QTL (C) loci showin
 ***
 
 ![.Ch_3_figures/figure3.4A_B_C_D.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/figure3.4A_B_C_D.png)
-
 ![.Ch_3_figures/figure3.4E_F.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/figure3.4E_F.png)
 
 **Figure 3.4: MAGIC founder NIP1;1 expression**
@@ -175,7 +169,6 @@ Boxplots of MAGIC line haplotypes at the NIP1;1 (A) and Chr3 QTL (C) loci showin
 ***
 
 ![.Ch_3_figures/sup_figure3.1.1.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/sup_figure3.1.1.png)
-
 ![.Ch_3_figures/sup_figure3.1.2.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/sup_figure3.1.2.png)
 
 **Supplemental Figure 3.1: MAGIC Founder Lines; ordered by AsIII sensitivity rank**
@@ -233,3 +226,10 @@ Histogram counts the number of MAGIC founder haplotypes contributing to each MAG
 **Not Included in Thesis**
 
 ***
+
+![.Ch_3_figures/drake_meme.tif](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/drake_meme.tif)
+
+**Not Included in Thesis**
+
+***
+
