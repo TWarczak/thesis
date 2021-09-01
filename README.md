@@ -1,6 +1,8 @@
-Notable Figures for Chapter 2 of Thesis
+## For full thesis, download [TWarczak_thesis.pdf](https://raw.githubusercontent.com/TWarczak/thesis/master/TWarczak_thesis.pdf)
 
-**Chapter 2: Cell-type specific expression profiles in Arabidopsis thaliana roots in response to AsIII**
+### *Will post code after publication*
+
+## For now, here are the notable figures from the thesis.  
 
 ***
 
@@ -9,6 +11,12 @@ Notable Figures for Chapter 2 of Thesis
 **Figure 1.1: Generalized Diagram of Arsenic Transport and Metabolism in Plants**
 
 Modified from Punshon et al. (2017), Zhao et al. (2009), and Ma et al. (2007). 
+***
+
+**Notable Figures for Chapter 2 of Thesis**
+
+**Chapter 2: Cell-type specific expression profiles in Arabidopsis thaliana roots in response to AsIII**
+
 ***
 
 ![.Ch_2_figures/figure2.1A_B_C.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/figure2.1A_B_C.png)
