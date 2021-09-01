@@ -107,9 +107,29 @@ Violin plots of Biological Process (red), Cellular Component (green), and Molecu
 
 ***
 
+![.Ch_2_figures/sup_table2.1.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/sup_table2.1.png)
 
+**Supplemental Table 2.1: RNA Library Counts & Alignment**
 
+24 RNA samples used in this study were sequenced, trimmed, filtered, and aligned to the A. thaliana reference genome (Araport11).  Sequencing was performed using the Illumina Nextseq500 system with 75bp fragment single-read libraries. Mapped read depth of samples ranged from ~ 11,000,000 – 33,000,000 per sample. 
 
+***
+
+![.Ch_2_figures/sup_table2.2.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/sup_table2.2.png)
+
+**Supplemental Table 2.2: Gene Expression (RPKM) Counts from Up-Regulated DEGs by Cell-Type and Condition**
+
+Numbers in the table represent the number of up-regulated DEGs within the RPKM Range bin and the corresponding percentage in that cell-type and condition.
+
+***
+
+![.Ch_2_figures/sup_table2.3.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/sup_table2.3.png)
+
+**Supplemental Table 2.3: Gene Expression (RPKM) Counts from Down-Regulated DEGs by Cell-Type and Condition**
+
+Numbers in the table represent the number of down-regulated DEGs within the RPKM Range bin and the corresponding percentage in that cell-type and condition. 
+
+***
 
 
 
