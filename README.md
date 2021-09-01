@@ -180,26 +180,41 @@ Boxplots of MAGIC line haplotypes at the NIP1;1 (A) and Chr3 QTL (C) loci showin
 
 **Supplemental Figure 3.1: MAGIC Founder Lines; ordered by AsIII sensitivity rank**
 
-MAGIC founder lines grown on control medium (half-strength MS) for 11 days, and 10 μM AsIII medium for 15 days. Founders are arranged from most AsIII sensitive (Can-0) to tolerant (Edi-0). Order used as AsIII sensitivity rank (1-19): Can-0, Oy-0, Po-0, Rsch-4, Zu-0, Tsu-0, Wu-0, Ct-1, Wil-2, Ws-0, Bur-0, Col-0, Ler-0, Mt-0, No-0, Hi-0, Sf-2, Kn-0, Edi-0.**
+MAGIC founder lines grown on control medium (half-strength MS) for 11 days, and 10 μM AsIII medium for 15 days. Founders are arranged from most AsIII sensitive (Can-0) to tolerant (Edi-0). Order used as AsIII sensitivity rank (1-19): Can-0, Oy-0, Po-0, Rsch-4, Zu-0, Tsu-0, Wu-0, Ct-1, Wil-2, Ws-0, Bur-0, Col-0, Ler-0, Mt-0, No-0, Hi-0, Sf-2, Kn-0, Edi-0.
 
 ***
 
+![.Ch_3_figures/sup_figure3.2.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/sup_figure3.2.png)
 
+**Supplemental Figure 3.2: Variants of Interest**
 
+(A) Top 7 variants at minor QTL on chromosome 3.  (B) Table summary of variants and position on chromosome 3.
 
+***
 
+![.Ch_3_figures/sup_figure3.3.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/sup_figure3.3.png)
 
+**Supplemental Figure 3.3: GWAS with Condensed SNP Library Showing Association with AsIII Tolerance**
 
+(A) Genome scan performed with the 492 root scores showing association with the 1260 SNP markers used to generate condensed genome mosaics of MAGIC lines.  Two minor QTLs found on chromosome 3 and one on chromosome 4.  One major QTL found on chromosome 4.  A 2nd major QTL might be present upstream of the main peak.  Orange dots signify peak at minor QTL, green triangle signifies major QTL, blue asterisk signifies potential QTL.  -logP of 3.51 corresponds to a genome-wide p-value of <0.05.  (B)  Allele effect estimates for the 19 MAGIC founders at the peak SNP (MN4_10482087) of the major QTL on chromosome 4. MN4_10482087 is located 59569 bp upstream of NIP1;1 but is the closest SNP to NIP1;1.  The next closest SNPs to NIP1;1 are MASC02548 and MASC01526, located 120628 bp downstream and 190423 bp upstream of the NIP1;1 5’UTR, respectively.  Higher effect estimates associate with higher root scores and AsIII sensitivity, lower effect estimates associate with lower root scores and AsIII tolerance.
 
+***
 
+![.Ch_3_figures/sup_figure3.4.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/sup_figure3.4.png)
 
+**Supplemental Figure 3.4: Root Scores of Minor & Major QTL Haplotype Combinations**
 
+Heatmap detailing average root score of every MAGIC line founder haplotype combination at minor (QTL3) and major (QTL4) QTLs.  Combinations show an uneven distribution of the two QTL loci.  Many haplotype combinations are not present in the MAGIC population.  For example, Ler-0 haplotype at QTL4 is well represented and found in combination with 17 of 19 other haplotypes at QTL3.  The Po-0 haplotype at QTL4, in contrast, is underrepresented and only found in combination with 5 of 19 other haplotypes at QTL3, making it difficult to assess the impact of Po-0 NIP1;1 on root scores.
 
+***
 
+![.Ch_3_figures/sup_figure3.5.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/sup_figure3.5.png)
 
+**Supplemental Figure 3.5: Counts of MAGIC line Founders Per Genome**
 
+Histogram counts the number of MAGIC founder haplotypes contributing to each MAGIC line of the 391 MAGIC line genomes used in Figure 2 GWAS.  Compare to Figure 1 in Korver et al. (2009).  
 
-
+***
 
 ![.Ch_3_figures/figure3.omit_1.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/figure3.omit_1.png)
 
