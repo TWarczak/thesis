@@ -99,7 +99,13 @@ Expression heatmaps showing LogFC by cell-type in response to AsIII on left and 
 
 ***
 
+![.Ch_2_figures/sup_figure2.7.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/sup_figure2.7.png)
 
+**Supplemental Figure 2.7: A. thaliana GO Term Limitations**
+
+Violin plots of Biological Process (red), Cellular Component (green), and Molecular Function (blue) GO terms.  Data points are unique GO terms with current (May 2020) counts of A. thaliana genes annotated with that term.  Plots highlight some limitations to typical GO enrichment analysis.  Terms with < 10 gene counts are too specific (eRF1 methyltransferase complex) and terms with ~ 10,000 gene counts are too vague (molecular_function).  Many terms such as response to cadmium ion are over-represented (Gene Count = 313) while many terms like mitotic cell cycle are under-represented (Gene Count = 55).
+
+***
 
 
 
