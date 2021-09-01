@@ -30,8 +30,37 @@ Modified from Punshon et al. (2017), Zhao et al. (2009), and Ma et al. (2007).
 
 ***
 
-![.Ch_2_figures/figure2.2B.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/figure2.2B.png)
+![.Ch_2_figures/figure2.3A_B.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/figure2.3A_B.png)
 
-Figure 2.2B:  
+![.Ch_2_figures/figure2.3C.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/figure2.3C.png)
+
+**Figure 2.3: GO-Term Enrichment**
+Molecular Function (A), Cellular Component (B), and Biological Process (C) subontology terms enriched in response to AsIII.  Terms for each subontology arranged by adjusted p-values for up and down differentially expressed genes.  Size corresponds to the number of genes (count) enriched for that term for each cell-type. Differentially expressed genes were filtered to include only abs(logFC) > 1.3, and RPKM > 8 in AsIII condition for up-regulated genes or RPKM > 8 in control condition for down-regulated genes. Cell-types separated by color. 
 
 ***
+
+![.Ch_2_figures/figure2.4.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/figure2.4.png)
+
+**Figure 2.4: AsIII Induced Expression by Cell-Type**
+Expression heatmaps showing LogFC by cell-type in response to AsIII on left and the corresponding RPKM units arranged by cell-type and condition for each gene on right. Genes from the Major Intrinsic Proteins (MIP) superfamily of aquaporins (A), ATP-Binding Cassette (ABC) family (B), and Multidrug and Toxic Compound Extrusion (MATE) family (C).  Genes that lacked a RPKM value of > 2 in at least one sample were filtered out. Heatmaps clustered by logFC.
+
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
