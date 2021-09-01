@@ -1,6 +1,22 @@
-## For full thesis, download [TWarczak_thesis.pdf](https://raw.githubusercontent.com/TWarczak/thesis/master/TWarczak_thesis.pdf)
+## My thesis **"Characterizing genetic factors that determine arsenic tolerance in plants"** is available online at [ProQuest](https://www.proquest.com/openview/70234b9ebe5923fa1a93e889d61fabe0/1?pq-origsite=gscholar&cbl=18750&diss=y). 
 
-### *Will post code after publication*
+## Download full thesis for free here [Warczak, 2020](https://raw.githubusercontent.com/TWarczak/thesis/master/TWarczak_thesis.pdf)
+
+### *Will post more code after publications*
+
+Chapter 1 is an introduction to arsenic as a non-essential, toxic metalloid that poses serious risks towards crop yields and human health. I discuss sources of dietary arsenic and solutions for mitigating consumption. 
+
+Chapter 2 covers my RNA-seq pipeline for gene expression of 25000+ plant (*Arabidopsis thaliana*) genes. This includes cell-type specific gene expression, clustering (PCA, hierarchical clustering), regression (GLMs/ANOVA), exploratory data analysis, and causal inference techniques. 
+
+Chapter 3 covers how I engineered a novel genome-wide association study (GWAS) that identified genes controlling arsenic tolerance in plant roots. I leveraged expert data cleaning and wrangling in R to summarise findings from millions of observations across thousounds of plant genomes. Modeling was performed in C/C++ on Ubuntu virtual machine and all analysis in R. I ultimately determined the plant gene AtNIP1;1 is the major genetic factor for tolerating arsenic in *A. thaliana*  root cells and identified regions of interest on multiple chromosomes for future studies. 
+
+### Additional publications:
+
+Nachman et al., 2018. **Opportunities and Challenges for Dietary Arsenic Intervention**. *Environ Health Perspect* Aug; 126(8): 084503.
+[Link](https://raw.githubusercontent.com/TWarczak/thesis/master/Nachman_et_al_2018.pdf)
+
+Punshon et al., 2017. **Understanding arsenic dynamics in agronomic systems to predict and prevent uptake by crop plants**. *Sci Total Environ* **581-582**: 209-220
+[Link](https://raw.githubusercontent.com/TWarczak/thesis/master/Punshon_et_al_2017.pdf)
 
 ## For now, here are the notable figures from the thesis, chapters 1-3.  
 
