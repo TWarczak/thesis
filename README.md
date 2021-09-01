@@ -25,7 +25,7 @@ Modified from Punshon et al. (2017), Zhao et al. (2009), and Ma et al. (2007).
 
 ***
 
-![.Ch_2_figures/figure2.2A_B_C.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/figure2.2A_B_C.png)
+![.Ch_2_figures/figure2.2.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/figure2.2.png)
 
 **Figure 2.2: Differentially Expressed Genes by Cell-Type**
 
