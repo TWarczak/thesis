@@ -2,7 +2,7 @@
 
 ### *Will post code after publication*
 
-## For now, here are the notable figures from the thesis.  
+## For now, here are the notable figures from the thesis, chapters 1-3.  
 
 ***
 
