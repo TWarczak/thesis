@@ -87,10 +87,17 @@ Examples of complete gating parameters and sorting statistics used in FACS for 7
 
 **Supplemental Figure 2.5: ICP-MS by Cell-Type**
 
-Bar plots of total ng arsenic (As), sulfur (S), or silicon (Si) per 50,000 sorted cortex, endodermal, or epidermal cells in both experimental conditions. 
+Bar plots of total ng arsenic (As), sulfur (S), or silicon (Si) per 50,000 sorted cortex, endodermal, or epidermal cells in both experimental conditions.
 
 ***
 
+![.Ch_2_figures/sup_figure2.6.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/sup_figure2.6.png)
+
+**Supplemental Figure 2.6: AsIII Induced Expression by Cell-Type**
+
+Expression heatmaps showing LogFC by cell-type in response to AsIII on left and the corresponding RPKM units arranged by cell-type and condition for each gene on right. Genes from the WRKY family transcription factors (A), MYB family transcription factors (B), and other genes of interest (C). Heatmaps include genes with logFC > 1 and a RPKM value of > 15 in at least one sample. Heatmaps clustered by logFC.
+
+***
 
 
 
