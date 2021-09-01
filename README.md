@@ -83,7 +83,13 @@ Examples of complete gating parameters and sorting statistics used in FACS for 7
 
 ***
 
+![.Ch_2_figures/sup_figure2.5.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/sup_figure2.5.png)
 
+**Supplemental Figure 2.5: ICP-MS by Cell-Type**
+
+Bar plots of total ng arsenic (As), sulfur (S), or silicon (Si) per 50,000 sorted cortex, endodermal, or epidermal cells in both experimental conditions. 
+
+***
 
 
 
