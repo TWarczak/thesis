@@ -1,9 +1,6 @@
-# thesis
-thesis-work figures 
+Notable Figures for Chapter 2 of Thesis
 
-
-
-
+**Chapter 2: Cell-type specific expression profiles in Arabidopsis thaliana roots in response to AsIII**
 
 ***
 
@@ -12,7 +9,6 @@ thesis-work figures
 **Figure 1.1: Generalized Diagram of Arsenic Transport and Metabolism in Plants**
 
 Modified from Punshon et al. (2017), Zhao et al. (2009), and Ma et al. (2007). 
-
 ***
 
 ![.Ch_2_figures/figure2.1A_B_C.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/figure2.1A_B_C.png)
@@ -131,8 +127,39 @@ Numbers in the table represent the number of down-regulated DEGs within the RPKM
 
 ***
 
+Notable Figures for Chapter 3 of Thesis
+
+**Chapter 3: Natural variation in NIP1;1 expression determines AsIII tolerance in A. thaliana accessions**
+
+***
+
+![.Ch_3_figures/figure3.1.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/figure3.1.png)
+
+**Figure 3.1: MAGIC Line Root Scoring for Arsenic Tolerance**
+
+(A) Roots for MAGIC lines #193 and #402 scored for arsenic tolerance. (B) Distribution of 492 MAGIC line root scores used for QTL mapping.  MAGIC lines which tolerate AsIII produced negative root scores; MAGIC lines sensitive to AsIII produce positive root scores.  Min = -1.94, 1st Qu. = -0.32, Median = 0.33, Mean = 0.30, 3rd Qu. = 0.85, Max = 3.18.  Red dots in (A) indicate where the main root tip of each plant ended and thus where each measurement occurred.
+
+***
+
+![.Ch_3_figures/figure3.2A.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/figure3.2A.png)
+
+![.Ch_3_figures/figure3.2B_C.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/figure3.2B_C.png)
+
+**Figure 3.2: GWAS for Arsenic Tolerance Found in MAGIC Population**
+
+(A) Manhattan plot showing association of ~3.3 million sequence variants with 392 root scores for arsenic tolerance within the MAGIC population, mapped onto the five A. thaliana chromosomes.  Horizontal lines represent conventional statistical significance thresholds of -log10(1e-5) (green dash) and -log10(5*10^-8) (blue dash).  Red line represents the p < 0.05 threshold after Bonferroni correction, -log10(0.05/3.3M).  (B) Magnified view of major QTL on chromosome four with top seven variants associated with AsIII tolerance labelled.  (C) Location of 2nd, 3rd, and 4th most significant variants (rs2412782, and rs2412888, rs2412612) compared to NIP1;1 locus and nearby genes.  Segments: blue = UTR, pink = exon, green = intron. 
+
+***
+
+![.Ch_3_figures/figure3.3A_B.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/figure3.3A_B.png)
+
+![.Ch_3_figures/figure3.3C_D.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/figure3.3C_D.png)
 
 
+**Figure 3.3: MAGIC Line Haplotypes at Major and Minor QTL**
 
+Boxplots of MAGIC line haplotypes at the NIP1;1 (A) and Chr3 QTL (C) loci showing relationship between arsenic sensitivity phenotype rank (Parental Rank), arranged from most sensitive (Can) to most tolerant (Edi), and arsenic root scores.  Each box represents the 25%, 50%, and 75% quantiles.  Red dotted line represents root score of 0.  Correlation of the average root scores for each MAGIC line haplotype found at the NIP1;1 (B) and Chr3 QTL (D) loci and phenotype rank of the 19 MAGIC line founders.  NIP1;1 locus correlates with Rank (R2 = 0.44).  Chr3 QTL locus does not correlate with Rank (R2 = 0.1).  
+
+***
 
 
