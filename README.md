@@ -69,7 +69,19 @@ MA plots (log fold-change versus mean of normalized read counts) showing statist
 
 ***
 
+![.Ch_2_figures/sup_figure2.3A_B.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/sup_figure2.3A_B.png)
 
+![.Ch_2_figures/sup_figure2.3C_D.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/sup_figure2.3C_D.png)
+
+![.Ch_2_figures/sup_figure2.3E_F.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/sup_figure2.3E_F.png)
+
+![.Ch_2_figures/sup_figure2.3G.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_2_figures/sup_figure2.3G.png)
+
+**Supplemental Figure 2.3: GFP-marker lines used for FACS**
+
+Examples of complete gating parameters and sorting statistics used in FACS for 7d old WT and GFP-reporter lines after 24 hours exposure to control or 50 μM AsIII conditions then root protoplasting.  Protoplasts filtered through gates P1-3 for size and shape that fell within gate P5 were collected as GFP positive events.  WT control protoplasts (A), WER::GFP control protoplasts (B), WER::GFP AsIII protoplasts (C), Cortex::GFP control protoplasts (D), Cortex::GFP AsIII protoplasts (E), SCR::GFP control protoplasts (F), SCR::GFP AsIII protoplasts (G). 
+
+***
 
 
 
