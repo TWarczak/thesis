@@ -174,6 +174,15 @@ Boxplots of MAGIC line haplotypes at the NIP1;1 (A) and Chr3 QTL (C) loci showin
 
 ***
 
+![.Ch_3_figures/sup_figure3.1.1.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/sup_figure3.1.1.png)
+
+![.Ch_3_figures/sup_figure3.1.2.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/sup_figure3.1.2.png)
+
+**Supplemental Figure 3.1: MAGIC Founder Lines; ordered by AsIII sensitivity rank**
+
+MAGIC founder lines grown on control medium (half-strength MS) for 11 days, and 10 μM AsIII medium for 15 days. Founders are arranged from most AsIII sensitive (Can-0) to tolerant (Edi-0). Order used as AsIII sensitivity rank (1-19): Can-0, Oy-0, Po-0, Rsch-4, Zu-0, Tsu-0, Wu-0, Ct-1, Wil-2, Ws-0, Bur-0, Col-0, Ler-0, Mt-0, No-0, Hi-0, Sf-2, Kn-0, Edi-0.**
+
+***
 
 
 
@@ -204,3 +213,8 @@ Boxplots of MAGIC line haplotypes at the NIP1;1 (A) and Chr3 QTL (C) loci showin
 
 ***
 
+![.Ch_3_figures/figure3.omit_3.png](https://raw.githubusercontent.com/TWarczak/thesis/master/Ch_3_figures/figure3.omit_3.png)
+
+**Not Included in Thesis**
+
+***
